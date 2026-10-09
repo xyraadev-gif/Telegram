@@ -1,0 +1,7 @@
+meta:
+  environment: python
+  python_version: 3.10
+build:
+  requirements: requirements.txt
+run:
+  command: python bot.py
